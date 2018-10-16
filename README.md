@@ -4,12 +4,10 @@ This is a website that would scan a file for specific signatures and alert the u
 
 ## Getting Started
 Download XAMPP to get started: https://www.apachefriends.org/download.html
-Once installed, navigate to the XAMPP folder and go to the htdocs folder and place this repository inside the htdocs folder.
 
 ### Prerequisites
 
-Download XAMPP to get started: https://www.apachefriends.org/download.html
-Once installed, navigate to the XAMPP folder and go to the htdocs folder and place this repository inside the htdocs folder.
+Once XAMPP is installed, navigate to the XAMPP folder and go to the htdocs folder and place this entire repository inside the htdocs folder.
 
 ### Installing
 Go to the XAMPP Control panel and click on it. Afterwards, press "start" on apache and phpmyadmin.
