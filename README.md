@@ -17,10 +17,7 @@ Go to the XAMPP Control panel and click on it. Afterwards, press "start" on apac
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Built With
-
-* [PHP]
-* [HTML]
-* [CSS]
+PHP, HTML, and CSS
 
 ## Authors
 
