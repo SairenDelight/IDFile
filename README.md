@@ -1,7 +1,8 @@
 # IDFile
 
 This is a website that would scan a file for specific signatures and alert the user if the file is infected. This website also allows contributors to input malware signatures into the database to detect more viruses.
-![](ID_File-min.png)
+
+![](IDFile-min.png)
 
 ## Getting Started
 Download XAMPP to get started: https://www.apachefriends.org/download.html
